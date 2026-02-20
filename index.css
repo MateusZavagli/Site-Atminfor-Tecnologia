@@ -1,4 +1,4 @@
-navbar-nav {
+.navbar-nav {
     text-align: right;
 }
 body{
@@ -162,7 +162,10 @@ body{
         gap:50px;
     }
 }
-.img{
+img{
     max-width: 100%;
     height: auto;
+}
+html, body {
+    overflow-x: hidden;
 }
